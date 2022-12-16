@@ -1,0 +1,37 @@
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-style: italic !important;
+}
+body{
+    color: tan;
+    background-color: whitesmoke;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwhite-background&psig=AOvVaw3HE1E9GHOXt1JGi5td11Ad&ust=1671319107293000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMi69_6i__sCFQAAAAAdAAAAABAE;);
+    background-size: fill;
+    font-family: 'comic sans ms'; 
+}
+p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+img{
+    border: solid black;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 20%;
+}
